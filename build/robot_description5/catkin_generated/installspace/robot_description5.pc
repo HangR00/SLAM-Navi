@@ -1,0 +1,8 @@
+prefix=/home/zjh/robot_ws/install
+
+Name: robot_description5
+Description: Description of robot_description5
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
