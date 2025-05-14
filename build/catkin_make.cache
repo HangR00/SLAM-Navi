@@ -1,2 +1,0 @@
-robot_description5:robot_gazebo:robot_navigation:robot_teleop
--DCATKIN_DEVEL_PREFIX=/home/zjh/robot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zjh/robot_ws/install -G Unix Makefiles
